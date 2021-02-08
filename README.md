@@ -6,7 +6,7 @@ Anteprima applicazione:
 
 <table>
   <tr>
-    <td></td>
+    <td><img src="/images/stickman.gif" alt="Stickman" width="24" height="39"></td>
     <td></td>
     <td></td>
   </tr>
