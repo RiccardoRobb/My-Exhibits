@@ -6,9 +6,9 @@ Anteprima applicazione:
 
 <table>
   <tr>
-    <td><img src="https://github.com/RiccardoRobb/My-Exhibits/blob/master/lod/notizie.png" width="270" height="450"></td>
-    <td><img src="https://github.com/RiccardoRobb/My-Exhibits/blob/master/lod/interessi.png" width="270" height="450"></td>
-    <td><img src="https://github.com/RiccardoRobb/My-Exhibits/blob/master/lod/evento.png" width="270" height="450"></td>
+    <td><img src="https://github.com/RiccardoRobb/My-Exhibits/blob/master/lod/notizie.png" width="270" height="500"></td>
+    <td><img src="https://github.com/RiccardoRobb/My-Exhibits/blob/master/lod/interessi.png" width="270" height="500"></td>
+    <td><img src="https://github.com/RiccardoRobb/My-Exhibits/blob/master/lod/evento.png" width="270" height="500"></td>
   </tr>
 </table>
 
